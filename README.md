@@ -2,6 +2,8 @@
 
 Projeto realizado para me ajudar a treinar o consumo de APIs em kotlin, utlizando o retrofit.
 
+O app realiza a conversão de moedas em tempo real!
+
 ![print conversor 1](https://github.com/RaphaelNCP/app_conversor_de_moedas/assets/112732487/5dcccea8-4f36-468b-9df8-98e1874600f6)
 
 
